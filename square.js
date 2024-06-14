@@ -2,6 +2,7 @@
  
 function square(number) {
     return number * number;
+ System.out.println(" Java Script for Squareroot");
 }
  
 // Example usage:
